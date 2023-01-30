@@ -14,5 +14,6 @@ label = Label(root, font=(), background="black", foreground="cyan")
 label.pack(anchor='center')
 time()
 
+# clock making
 mainloop()
 print('this is clock')
